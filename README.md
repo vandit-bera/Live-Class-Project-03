@@ -27,7 +27,7 @@
 
 ![Project 03](./ss/LCO-3.png)
 
-Here's a Screen-Shot of my project-02 and I learnt Most of my usefull Future of HTML and CSS.
+Here's a Screen-Shot of my project-03 and I learnt Most of my usefull Future of HTML and CSS.
 <br>
 <br>
 
