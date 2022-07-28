@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Red Rose", cursive;
+  }
+  body{
+    margin: 0;
+    padding: 0;
+    background-color: #2b2922;
+  }
+
+  /* ------------------------------ */
+  /* ---------- NAVBAR ------------ */
+  /* ------------------------------ */
+  .navbar{
+    position: absolute;
+    justify-content: space-between;
+    width: 100%;
+    float: left;
+    display: flex;
+    padding: 5vh 10vh;
+  }
+  .list{
+    list-style-type: none;
+    display: flex;
+    padding-top: 15px;
+    margin-left: 250px;
+  }
+  .list li{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight:500;
+    font-size: 20px;
+    color: #7d7971;
+  }
+  .list li:nth-child(1){
+    color: #ffffff;
+  }
+  
+  .navbar button{
+    padding: 10px 38px;
+    display: block;
+    color: #ffc233;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: #ffc233;
+    margin-right: 50px;
+  }
+  /* ------------------------------ */
+  /* ---------- HERO ------------ */
+  /* ------------------------------ */
+  
+
+  .hero-heading{
+    position: absolute;
+    top: 20%;
+    left: 4.5%;
+    color: #ffffff;
+    font-weight: bolder;
+    font-size: 80px;
+    width: 45%;
+  }
+  .hero-par{
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    color: #aba9a1;
+    font-weight:normal;
+    font-size: 27px;
+    width: 40%;
+  }
+
+  .imagia img{
+    position: absolute;
+    top: 53%;
+    left: 0%;
+    right: 0%;
+    width: 100%;
+    height: 400px;
+  }
